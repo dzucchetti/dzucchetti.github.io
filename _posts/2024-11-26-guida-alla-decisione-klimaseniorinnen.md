@@ -3,10 +3,17 @@ layout: post
 title:
   Guida alla decisione KlimaSeniorinnen c. Svizzera della Corte europea diritti
   dell’uomo
+excerpt:
+  Questa guida introduttiva alla decisione della Corte Europea dei diritti
+  dell’uomo (Corte) grazie ad ampie citazioni, commenti e spiegazioni, vuole
+  rendere più facile farsi un'idea diretta, con esattamente i fatti, le parole e
+  i ragionamenti usati dalla Corte per motivare la storica sentenza.
 date: 2024-06-06 10:51:00 +0100
 author: Domenico Zucchetti
 categories: italiano
 ---
+
+# Guida alla decisione KlimaSeniorinnen c. Svizzera della Corte europea diritti dell’uomo
 
 Questa guida introduttiva alla decisione della Corte Europea dei diritti
 dell’uomo (Corte) grazie ad ampie citazioni, commenti e spiegazioni, vuole
@@ -63,11 +70,11 @@ di mettere a disposizione il documento in forma di bozza. Spero possa essere
 d’utilità e mi scuso già sin d’ora per errori, imprecisioni o difficoltà di
 comprensione e vi chiedo di darmi feedback e suggerimenti.**
 
-### Riassunti consigliati
+## Riassunti consigliati
 
 - [Svolta della Corte europea sul clima e diritti umani (Italian Climate Network – 15.4.2024)](https://www.italiaclima.org/anziane-per-il-clima/)
 
-### Riferimenti e link sulla sentenza
+## Riferimenti e link sulla sentenza
 
 {% raw %}
 
@@ -112,7 +119,7 @@ comprensione e vi chiedo di darmi feedback e suggerimenti.**
 
 {% endraw %}
 
-### Aggiornamenti di questa pagina
+## Aggiornamenti di questa pagina
 
 La pagina è stata pubblicata la prima volta il 6 giugno 2024, ci sono stati
 successivi aggiornamenti
