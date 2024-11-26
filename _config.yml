@@ -1,0 +1,15 @@
+title: Domenico Zucchetti
+email: domenico@banana.ch
+description: >- # this means to ignore newlines until "baseurl:"
+  Domenico Zucchetti è il fondatore di Banana Contabilità, presidente
+  dell'associazione Botangisi, e membro del Comitato cantonale dei Verdi del
+  Ticino.
+baseurl: ""
+url: "https://zucchetti.ch"
+twitter_username: DZucchetti
+github_username: dzucchetti
+
+theme: minima
+plugins:
+  - jekyll-feed
+show_excerpts: true
