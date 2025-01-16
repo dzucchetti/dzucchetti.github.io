@@ -15,6 +15,5 @@ plugins:
 show_excerpts: true
 
 header_pages:
-  - pages.md
-  - blog.md
+  - indice.md
   - about.md
