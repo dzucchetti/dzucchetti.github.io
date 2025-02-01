@@ -18,9 +18,9 @@ La decisione della Corte è molto interessante, non solo per le conclusioni, ma 
 
 Il risultato è questa guida ricca di citazioni. La lettura però dovrebbe essere abbastanza veloce perché non è necessario soffermarsi su tutto, eventualmente, se un argomento interessa si può facilmente ritornare sulla citazione o consultare direttamente il testo della decisione.
 
-* [Guida alla Guida alla decisione KlimaSeniorinnen c. Svizzera (commenti italiano, citazioni **Inglese**)](https://github.com/dzucchetti/zucchettich/raw/main/blog/guida-klimaseniorinnen-svizzera-12.pdf)  
+* [Guida alla Guida alla decisione KlimaSeniorinnen c. Svizzera (commenti italiano, citazioni **Inglese**)](/files/dossiers/cedu-klimaseniorinnen/guida-klimaseniorinnen-svizzera-12.pdf)  
  Versione 09 - 2024-06-07 / **Vedi Avvertenze sotto**
-* [Guida alla Guida alla decisione KlimaSeniorinnen c. Svizzera (commenti italiano, citazioni **Francese**)](https://github.com/dzucchetti/zucchettich/raw/main/blog/guida-klimaseniorinnen-svizzera-12-francais.pdf)  
+* [Guida alla Guida alla decisione KlimaSeniorinnen c. Svizzera (commenti italiano, citazioni **Francese**)](/files/dossiers/cedu-klimaseniorinnen/guida-klimaseniorinnen-svizzera-12-francais.pdf)  
  Versione 09 - 2024-06-07 / **Vedi Avvertenze sotto**
 
 Ho anche cercato, non so con quanto successo, di separare il mio punto di vista, in modo che il documento possa essere utile anche a chi ha posizioni politiche diverse. La decisione è stata anche fortemente criticata e ho cercato di dare risposte, dal mio punto di vista.

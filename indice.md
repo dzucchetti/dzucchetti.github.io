@@ -26,7 +26,8 @@ multi-nazionali, G20).
 
 Un'elenco di studi e documentazione alla cui realizzazione ho partecipato
 
-- [Ridare competitività al lavor (2015)](/blog/2015/05/20/179)
+- [Guida alla decisione KlimaSeniorinnen c. Svizzera della Corte europea diritti dell’uomo (2024)](/blog/2024/06/07cedu-klimaseiorinnen)
+- [Ridare competitività al lavoro (2015)](/blog/2015/05/20/179)
 - Proposte per il miglioramento delle assicurazioni sociali:
   - [Assicurazioni lavorative personalizzate (2014)](/blog/2014/07/19/169)
   - [Reinserimento lavorativo degli invalidi psichici (2014)](/blog/2014/07/19/168)
