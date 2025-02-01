@@ -1,11 +1,10 @@
 ---
 layout: post
 title: "Guide de la décision KlimaSeniorinnen c. Suisse de la Cour européenne des droits de l’homme"
-excerpt: "Guide pour se faire une idée directe, avec les faits, les mots et les raisonnements utilisés par la Cour pour motiver cet arrêt historique. Contient de nombreuses citations,commentaires et explications."
-date: 2024-02-01 02-00-00 +0100
+excerpt: "Pour se faire une idée directe, avec les faits, les mots et les raisonnements utilisés par la Cour pour motiver cet arrêt historique. Contient de nombreuses citations,commentaires et explications. [...]"
+date: 2025-02-01 02-00-00 +0100
 categories: blog
 ---
-
 
 # Guide de la décision KlimaSeniorinnen c. Suisse de la Cour européenne des droits de l’homme
 
