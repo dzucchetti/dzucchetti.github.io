@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "La prova provata"
+title: "Clima: La prova provata"
 excerpt: "La maggioranza della commissione giuridica del Consiglio degli Stati (Commissione) ha respinto la recente decisione della Corte europea dei diritti dell’uomo (Corte), che condannava la Svizzera per non aver fatto abbastanza per proteggere la popolazione dagli effetti negativi della crisi climatica. La Commiss..."
 date: 2024-06-08 02-00-00 +0100
 categories: blog
 ---
 
-# La prova provata
+# Clima: la prova provata
 
 La maggioranza della commissione giuridica del Consiglio degli Stati (Commissione) ha respinto la recente decisione della Corte europea dei diritti dell’uomo (Corte), che condannava la Svizzera per non aver fatto abbastanza per proteggere la popolazione dagli effetti negativi della crisi climatica. La Commissione, con un comunicato di una sola pagina del 23 maggio 2024, si oppone a questa "innovazione" giuridica, critica pesantemente l’agire della Corte, ne confuta le risultanze ed esclude di considerare qualsiasi ipotesi di miglioramento delle normative svizzere, concludendo che "non vede pertanto alcuna ragione per dare ulteriore seguito alla sentenza, pronunciata dalla Corte il 9 aprile 2024".
 

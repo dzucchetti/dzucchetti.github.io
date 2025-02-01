@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Guida alla decisione KlimaSeniorinnen c. Svizzera della Corte europea diritti dell’uomo"
-excerpt: "Questa guida introduttiva alla decisione della Corte Europea dei diritti dell’uomo (Corte) grazie ad ampie citazioni, commenti e spiegazioni, vuole rendere più facile farsi un'idea diretta, con esattamente i fatti, le parole e i ragionamenti usati dalla Corte per motivare la storica sentenza."
+excerpt: "Guida per farsi un'idea diretta, con i fatti, le parole e i ragionamenti usati dalla Corte per motivare la storica sentenza. Contiene  ampie citazioni, commenti e spiegazioni, "
 date: 2024-06-07 02-00-00 +0100
 categories: blog
 ---
@@ -18,16 +18,19 @@ La decisione della Corte è molto interessante, non solo per le conclusioni, ma 
 
 Il risultato è questa guida ricca di citazioni. La lettura però dovrebbe essere abbastanza veloce perché non è necessario soffermarsi su tutto, eventualmente, se un argomento interessa si può facilmente ritornare sulla citazione o consultare direttamente il testo della decisione.
 
-* [Guida alla Guida alla decisione KlimaSeniorinnen c. Svizzera (commenti italiano, citazioni **Inglese**)](/files/dossiers/cedu-klimaseniorinnen/guida-klimaseniorinnen-svizzera-12.pdf)  
+* [Guida alla Guida alla decisione KlimaSeniorinnen c. Svizzera (commenti italiano, citazioni **Inglese**)](/files/dossiers/cedu-klimaseniorinnen/guida-klimaseniorinnen-vs-svizzera.pdf)  
  Versione 09 - 2024-06-07 / **Vedi Avvertenze sotto**
-* [Guida alla Guida alla decisione KlimaSeniorinnen c. Svizzera (commenti italiano, citazioni **Francese**)](/files/dossiers/cedu-klimaseniorinnen/guida-klimaseniorinnen-svizzera-12-francais.pdf)  
+* [Guida alla Guida alla decisione KlimaSeniorinnen c. Svizzera (commenti italiano, citazioni **Francese**)](/files/dossiers/cedu-klimaseniorinnen/guide-klimaseniorinnen-vs-suisse.pdf)  
  Versione 09 - 2024-06-07 / **Vedi Avvertenze sotto**
 
 Ho anche cercato, non so con quanto successo, di separare il mio punto di vista, in modo che il documento possa essere utile anche a chi ha posizioni politiche diverse. La decisione è stata anche fortemente criticata e ho cercato di dare risposte, dal mio punto di vista.
 
 È una decisione storica, innovatrice ed è probabile che in futuro si evidenzieranno altri aspetti. Questa è una prima versione della guida ed è probabile che seguiranno nuove versioni che aggiungono, spiegano meglio o approfondiscono certi punti.
 
-**Avvertenza: Non sono uno specialista del settore e questo documento vuole servire da introduzione, non ci sono ambizioni di completezza e tantomeno è una valutazione giuridica. La decisione della Commissione affari giuridici del Consiglio degli Stati di invitare le Camere federali a non applicare la sentenza della Corte, ha reso urgente la necessità di farsi un’opinione per cui ho deciso di mettere a disposizione il documento in forma di bozza. Spero possa essere d’utilità e mi scuso già sin d’ora per errori, imprecisioni o difficoltà di comprensione e vi chiedo di darmi feedback e suggerimenti.**
+* [Clima: la prova provata](/blog/2024/06/08/clima-prova-provata)
+  L'Assemble federale dimostra che la Corte aveva ragione.
+
+**Avvertenza: Questo documento vuole servire da introduzione, non ci sono ambizioni di completezza e tantomeno è una valutazione giuridica. La decisione della Commissione affari giuridici del Consiglio degli Stati di invitare le Camere federali a non applicare la sentenza della Corte, ha reso urgente la necessità di farsi un’opinione per cui ho deciso di mettere a disposizione il documento in forma di bozza. Spero possa essere d’utilità e mi scuso già sin d’ora per errori, imprecisioni o difficoltà di comprensione e vi chiedo di darmi feedback e suggerimenti.**
 
 ## Riassunti consigliati
 
@@ -77,4 +80,6 @@ La pagina è stata pubblicata la prima volta il 6 giugno 2024, ci sono stati suc
 
 * 2024-06-06 Aggiunto documento con citazioni in francese
 * 2024-06-07 Aggiornato il documento (alcune correzioni, capitolo Corte europea), aggiunto la sezione "Riferimenti e link"
+* 2025-02-01 Aggiunto traduzione automatica in Francese
+
 
