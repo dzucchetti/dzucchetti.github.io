@@ -7,25 +7,14 @@ permalink: indice
 
 # Indice
 
-[Domenico Zucchetti breve profilo](/about) (CV)
-
-## Nuove pubblicazioni:
-
-Novità e informazioni sono pubblicati da un po' di tempo nella forma del blog.
-
-[Vai al Blog](/)
-
-## Vicinanza, perché?
-
-È necessario riscoprire i valori positivi della vicinanza, solo così possiamo
-contrastare gli effetti negativi di un mondo che tende verso la lontananza
-(globalizzazione, delocalizzazione, migrazioni, centralizzazione, Stati
-multi-nazionali, G20).
+- [Domenico Zucchetti breve profilo (CV)](/about)
+- [Vai al Blog](/) Novità e informazioni sono pubblicati nella forma del blog.
 
 ## Studi e documentazione
 
-Un'elenco di studi e documentazione alla cui realizzazione ho partecipato
+Elenco di studi realizzati da me o a cui ho collaborato:
 
+- [Funzionamento e logiche dei programmi di contabilità (2024)](https://raw.githubusercontent.com/BananaAccounting/Universal/master/education/it/Funzionamento-e-logiche-dei-programmi-di-contabilit%C3%A0.pdf)
 - [Guida alla decisione KlimaSeniorinnen c. Svizzera della Corte europea diritti dell’uomo (2024)](/blog/2024/06/07cedu-klimaseiorinnen)
 - [Positive Vision of Kibera (2019)](/blog/2019/04/11/positive-vision-kibera)
 - [Ridare competitività al lavoro (2015)](/blog/2015/05/20/179)
