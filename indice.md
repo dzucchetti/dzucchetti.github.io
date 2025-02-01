@@ -41,9 +41,9 @@ Un'elenco di studi e documentazione alla cui realizzazione ho partecipato
   - [Presentazione e concetto strategico di RailValley](http://railvalley.org/sites/railvalley.org/files/RailValley%20presentazione%20I%20v%5F27gen11.pdf)
 - [Verso una politica in grado di orientare i cambiamenti](/files/politica%5Forientare%5Fcambiamenti.pdf)
   (Luglio 2011) e il riassunto delle [21 proposte](/blog/2011/08/16/94.html).
-- [Financial Market Stability Tax (ottobre 2010)](/blog/2017/07/19/155)
+- [Financial Market Stability Tax (ottobre 2010)](/blog/2010/10/22/financial-market-stability-tax)
   Ragionamenti su una tassa e altri orientamenti per rendere più stabili i
-  mercati finanziari. [(see also English version](/blog/2014/03/23/156))
+  mercati finanziari. [(see also English version](/blog/2010/10/22/financial-market-stability-tax-english))
 - [Proposta per un ufficio delle partecipazioni statali (marzo 2009)](/blog/2014/03/23/151)
   Se si vuole essere preparati al meglio per affrontare la crisi è
   indispensabile che la Confederazione crei un’organizzazione per la gestione

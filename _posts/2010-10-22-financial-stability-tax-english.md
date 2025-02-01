@@ -2,13 +2,13 @@
 layout: post
 title: "Financial Market Stability Tax (English)"
 excerpt: "The document \"Financial Market Stability Tax” analyses some points about a tax aimed at making financial markets more stable."
-date: 2014-03-23 01-00-00 +0100
+date: 2010-10-22 01-00-00 +0100
 categories: blog
 ---
 
 # Financial Market Stability Tax (English)
 
-The document "[Financial Market Stability Tax](http://www.utile.ch/sites/default/files/stabilitytax-english.pdf)” analyses some points about a **tax aimed at making financial markets more stable**.
+The document "[Financial Market Stability Tax](/files/dossiers/financial-stability-tax/stabilitytax-english.pdf)” analyses some points about a **tax aimed at making financial markets more stable**.
 
 In principle, such tax should be levied on the **transactions that create instability and collateral risks** for the market
 
