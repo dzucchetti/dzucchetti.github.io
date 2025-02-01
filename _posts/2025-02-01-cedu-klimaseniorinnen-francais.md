@@ -14,7 +14,7 @@ Ce guide introductif à la décision de la Cour européenne des droits de l’ho
 
 * [Guide de la décision KlimaSeniorinnen vs. Suisse](/files/dossiers/cedu-klimaseniorinnen/guide-klimaseniorinnen-vs-suisse.pdf)  
       Traduction automatique. Citations de l'arrêt original en français.  
-      Versione 09 - 2024-06-07 
+      Version: 2024-06-07 
 
 Le 9 avril 2024, dans l’affaire KlimaSeniorinnen c. Suisse, la Cour a établi que la Convention européenne des droits de l’homme (Convention) s’applique également au contexte des changements climatiques et a constaté que la Suisse ne fait pas suffisamment d’efforts.
 
