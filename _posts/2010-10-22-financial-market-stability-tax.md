@@ -2,13 +2,17 @@
 layout: post
 title: "Financial Market Stability Tax (Italiano)"
 excerpt: "Nel documento \"Financial Market Stability Tax\", sono presentati dei ragionamenti in merito a una tassa per rendere più stabili i mercati finanziari."
-date: 2017-07-19 02-00-00 +0100
+date: 2010-10-22 02-00-00 +0100
 categories: blog
 ---
 
 # Financial Market Stability Tax (Italiano)
 
-Nel documento "[Financial Market Stability Tax](/files/stabilitytax-italiano.pdf)", sono presentati dei ragionamenti in merito a una **tassa per rendere più stabili i mercati finanziari**.
+Nei documenti sono presentati dei ragionamenti in merito a una **tassa per rendere più stabili i mercati finanziari**. 
+
+- [Financial Market Stability Tax (Italiano)](/files/dossiers/financial-stability-tax/stabilitytax-italiano.pdf)" 
+- [Financial Market Stability Tax (English)](/files/dossiers/financial-stability-tax/stabilitytax-english.pdf)"
+
 
 L'idea è quella di una tassa che va a colpire quelle **transazioni che creano instabilità e rischi supplementari** per il mercato. 
 
@@ -20,7 +24,7 @@ Due anni or sono erano state formulate delle considerazioni. Nel frattempo alcun
 
 Il documento è stato portato all'attenzione di diverse organizzazioni che trattano questi temi, fra cui la presidenza del del G20 ('organizzazione che raggruppa le più importanti economie del mondo).
 
-Alcune personalità hanno gentilmente accusato ricevuta, fra cui il presidente francese Nicholas Sarkosy, presidente di turno del G20 per il 2011 ([lettera di ringraziamento per 'invio](/files/risposta%5Fsarkosy%5F23-12-2010.pdf)).
+Alcune personalità hanno gentilmente accusato ricevuta, fra cui il presidente francese Nicholas Sarkosy, presidente di turno del G20 per il 2011 ([lettera di ringraziamento per 'invio](/files/dossiers/financial-stability-tax/risposta%5Fsarkosy%5F23-12-2010.pdf)).
 
 ## Proposte per stabilizzare i mercati finanziari (2008)
 
