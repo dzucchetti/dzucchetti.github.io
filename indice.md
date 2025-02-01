@@ -56,7 +56,7 @@ Un'elenco di studi e documentazione alla cui realizzazione ho partecipato
 - [Telecomunicazioni /Swisscom(2005/2006)](/blog/2017/07/19/152) La situazione
   nel settore delle telecomunicazioni è stata analizzata a più riprese. Qui si
   trova copia di alcuni studi e interventi sul tema .
-- [Confederazione : manipolazioni contabili (2003)](/blog/2017/02/10/confederazione-manipolazioni) La questione della trasparenza dei conti è emersa in modo pressante in ambito
+- [Confederazione : manipolazioni contabili (2003)](/blog/2003/02/10/confederazione-manipolazioni) La questione della trasparenza dei conti è emersa in modo pressante in ambito
   privato, ma il problema esiste anche in quello pubblico. Questo fenomeno,
   finora rimasto inesplorato, è stato oggetto di un'attenta ricerca che ha
   evidenziato l'esistenza di macroscopiche manipolazioni contabili nei conti

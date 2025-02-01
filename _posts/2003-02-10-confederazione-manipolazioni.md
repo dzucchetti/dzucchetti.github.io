@@ -2,7 +2,7 @@
 layout: post
 title: "Confederazione: manipolazioni contabili"
 excerpt: "La questione della trasparenza dei conti è emersa in modo pressante in ambito privato, ma il problema esiste anche in quello pubblico. Questo fenomeno, finora rimasto inesplorato, è stato oggetto di un'attenta ricerca che ha evidenziato l'esistenza di macroscopiche manipolazioni contabili durante gli anni 199..."
-date: 2017-07-19 02-00-00 +0100
+date: 2003-02-10 02-00-00 +0100
 categories: blog
 ---
 
