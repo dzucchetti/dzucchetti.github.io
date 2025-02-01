@@ -44,7 +44,7 @@ Un'elenco di studi e documentazione alla cui realizzazione ho partecipato
 - [Financial Market Stability Tax (ottobre 2010)](/blog/2010/10/22/financial-market-stability-tax)
   Ragionamenti su una tassa e altri orientamenti per rendere più stabili i
   mercati finanziari. [(see also English version](/blog/2010/10/22/financial-market-stability-tax-english))
-- [Proposta per un ufficio delle partecipazioni statali (marzo 2009)](/blog/2014/03/23/151)
+- [Proposta per un ufficio delle partecipazioni statali (marzo 2009)](/blog/2009/03/02/partecipazioni-statali)
   Se si vuole essere preparati al meglio per affrontare la crisi è
   indispensabile che la Confederazione crei un’organizzazione per la gestione
   delle partecipazioni, più flessibile e meglio attrezzata.

@@ -2,7 +2,7 @@
 layout: post
 title: "Ufficio delle partecipazioni statali"
 excerpt: "La crisi finanziaria ed economica sta costringendo diverse nazioni a ricapitalizzare banche e aziende.  "
-date: 2014-03-23 01-00-00 +0100
+date: 2009-03-02 01-00-00 +0100
 categories: blog
 ---
 
