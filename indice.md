@@ -27,7 +27,7 @@ Elenco di studi realizzati da me o a cui ho collaborato:
 
 - Proposte per il miglioramento delle assicurazioni sociali:
   - [Assicurazioni lavorative personalizzate (2014)](/blog/2014/07/19/169)
-  - [Reinserimento lavorativo degli invalidi psichici (2014)](/blog/2014/07/19/168)
+  - [Reinserimento lavorativo degli invalidi psichici (2014)](/blog/2014/07/19/168)  
 
 - [RailValley ](http://www.railvalley.org/)(Associazione per l'innovazione in
   ambito ferroviario) Documenti a cui ho contribuito in questo ambito
