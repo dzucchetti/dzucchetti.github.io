@@ -17,7 +17,7 @@ Elenco di studi realizzati da me o a cui ho collaborato:
 - [Funzionamento e logiche dei programmi di contabilità (Pdf - 2024)](https://raw.githubusercontent.com/BananaAccounting/Universal/master/education/it/Funzionamento-e-logiche-dei-programmi-di-contabilit%C3%A0.pdf)  
   Comprendere e sfruttare i software contabili: una guida per professionisti, sviluppatori, studenti e principianti.
 
-- [Guida alla decisione KlimaSeniorinnen c. Svizzera della Corte europea diritti dell’uomo (2024)](/blog/2024/06/07cedu-klimaseniorinnen)  
+- [Guida alla decisione KlimaSeniorinnen c. Svizzera della Corte europea diritti dell’uomo (2024)](/blog/2024/06/07/cedu-klimaseniorinnen)  
   Per farsi un'idea diretta della storica sentenza. Introduzione con ampie citazioni, commenti e spiegazioni.
 
 - [Positive Vision of Kibera (English - 2019)](/blog/2019/04/11/positive-vision-kibera)  
