@@ -48,7 +48,7 @@ Un'elenco di studi e documentazione alla cui realizzazione ho partecipato
   Se si vuole essere preparati al meglio per affrontare la crisi è
   indispensabile che la Confederazione crei un’organizzazione per la gestione
   delle partecipazioni, più flessibile e meglio attrezzata.
-- [Verdi del Ticino - Documento strategico e riposizionamento sui bilaterali](/files/Bilaterali%20Documento%20strat%20e%20proposte%5F2.4.pdf)
+- [Verdi del Ticino - Documento strategico e riposizionamento sui bilaterali (2009)](/files/Bilaterali%20Documento%20strat%20e%20proposte%5F2.4.pdf)
   Bilaterali, globalizzazione e ruolo del Ticino in Svizzera. Riposizionamento e
   proposte approvate dal Comitato dei Verdi del Ticino il 19 novembre 2009.
 - [Verso un Ticino di 12 comuni (gennaio 2009)](/blog/2017/07/19/153) Progetto
@@ -56,13 +56,12 @@ Un'elenco di studi e documentazione alla cui realizzazione ho partecipato
 - [Telecomunicazioni /Swisscom(2005/2006)](/blog/2017/07/19/152) La situazione
   nel settore delle telecomunicazioni è stata analizzata a più riprese. Qui si
   trova copia di alcuni studi e interventi sul tema .
-- [Confederazione : manipolazioni contabili (2003)](/blog/2017/07/19/154) La
-  questione della trasparenza dei conti è emersa in modo pressante in ambito
+- [Confederazione : manipolazioni contabili (2003)](/blog/2017/02/10/confederazione-manipolazioni) La questione della trasparenza dei conti è emersa in modo pressante in ambito
   privato, ma il problema esiste anche in quello pubblico. Questo fenomeno,
   finora rimasto inesplorato, è stato oggetto di un'attenta ricerca che ha
   evidenziato l'esistenza di macroscopiche manipolazioni contabili nei conti
   della Confederazione durante gli anni 1999/2002.
-- [Caso Swissair(2002)](/blog/2017/07/19/149) Nel mese di ottobre 2001 la flotta
+- [Caso Swissair(2002)](/blog/2002/03/02/swissair) Nel mese di ottobre 2001 la flotta
   Swissair è rimasta bloccata al suolo per 2 giorni. Il Consiglio federale ha
   disposto, in tempi molto brevi, crediti per Fr. 2 miliardi. Questi avvenimenti
   sono stati ricostruiti e analizzati in dettaglio.
