@@ -26,10 +26,10 @@ multi-nazionali, G20).
 
 Un'elenco di studi e documentazione alla cui realizzazione ho partecipato
 
-- [Ridare competitività al lavoro](/blog/2015/05/20/179)
+- [Ridare competitività al lavor (2015)](/blog/2015/05/20/179)
 - Proposte per il miglioramento delle assicurazioni sociali:
-  - [Assicurazioni lavorative personalizzate](/blog/2014/07/19/169)
-  - [Reinserimento lavorativo degli invalidi psichici](/blog/2014/07/19/168)
+  - [Assicurazioni lavorative personalizzate (2014)](/blog/2014/07/19/169)
+  - [Reinserimento lavorativo degli invalidi psichici (2014)](/blog/2014/07/19/168)
 - [RailValley ](http://www.railvalley.org/)(Associazione per l'innovazione in
   ambito ferroviario) Documenti a cui ho contribuito in questo ambito
   - [Per un risanamento della galleria stradale del San Gottardo in linea con la strategia energetica 2050 del Consiglio federale](http://railvalley.org/sites/railvalley.org/files/RailValley-risanamento-gottardo-2050%5F06-03-2014.pdf)
