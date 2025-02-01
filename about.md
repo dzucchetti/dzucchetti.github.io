@@ -45,6 +45,12 @@ permalink: /about
   collaborativa, con particolare riguardo all’ambito contabile, commerciale e al
   contesto della cooperazione internazionale.
 
+### Contatti
+
+Potete contattarmi al domenico.zucchetti[at]yahoo.com   
+Generalmente leggo gli email, ma non sempre riesco a rispondere o a rispondere subito.
+
+
 ### Idee e prospettive
 
 Mi occupo fina dalla giovane età di temi interculturali e interconfessionali e
