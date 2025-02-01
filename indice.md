@@ -19,6 +19,7 @@ Elenco di studi realizzati da me o a cui ho collaborato:
 
 - [Guida alla decisione KlimaSeniorinnen c. Svizzera della Corte europea diritti dell’uomo (2024)](/blog/2024/06/07/cedu-klimaseniorinnen)  
   Per farsi un'idea diretta della storica sentenza. Introduzione con ampie citazioni, commenti e spiegazioni.
+  - [Traduction Francais Blog et Guide (2025)](/blog/2025/02/01/cedu-klimaseniorinnen-francais) 
 
 - [Positive Vision of Kibera (English - 2019)](/blog/2019/04/11/positive-vision-kibera)  
   Positive aspects of Kibera the biggest slum of Nairobi and Africa.
