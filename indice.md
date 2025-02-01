@@ -51,9 +51,9 @@ Un'elenco di studi e documentazione alla cui realizzazione ho partecipato
 - [Verdi del Ticino - Documento strategico e riposizionamento sui bilaterali (2009)](/files/Bilaterali%20Documento%20strat%20e%20proposte%5F2.4.pdf)
   Bilaterali, globalizzazione e ruolo del Ticino in Svizzera. Riposizionamento e
   proposte approvate dal Comitato dei Verdi del Ticino il 19 novembre 2009.
-- [Verso un Ticino di 12 comuni (gennaio 2009)](/blog/2017/07/19/153) Progetto
+- [Verso un Ticino di 12 comuni (gennaio 2009)](/blog/2009/01/13/ticino-12comuni) Progetto
   di aggregazioni comunali basato su un ripensamento istituzionale
-- [Telecomunicazioni /Swisscom(2005/2006)](/blog/2017/07/19/152) La situazione
+- [Telecomunicazioni /Swisscom(2004-2006)](/blog/2004/04/28/swisscom) La situazione
   nel settore delle telecomunicazioni è stata analizzata a più riprese. Qui si
   trova copia di alcuni studi e interventi sul tema .
 - [Confederazione : manipolazioni contabili (2003)](/blog/2003/02/10/confederazione-manipolazioni) La questione della trasparenza dei conti è emersa in modo pressante in ambito
