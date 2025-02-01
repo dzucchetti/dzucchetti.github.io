@@ -8,7 +8,8 @@ categories: blog
 
 # I manager più pagati gestiscono le società meno redditizie
 
-Un [recente studio](https://news.slashdot.org/story/16/07/26/223241/highest-paid-ceos-run-worst-performing-companies-research-finds) eseguito sui dati di diverse ditte negli USA ha rilevato che, mediamente, i manager più pagati gestiscono ditte che hanno avuto nell’arco die 10 anni una redditività minore.
+Un [recente studio](https://weinberg.udel.edu/are-ceos-paid-for-performance-evaluating-the-effectiveness-of-equity-incentives/) eseguito sui dati di diverse ditte negli USA ha rilevato che, mediamente, i manager più pagati gestiscono ditte che hanno avuto nell’arco die 10 anni una redditività minore.
 
 Il motivo sembra sia da ricercare nel fatto che questi manager prestano meno attenzione alla performance sul lungo periodo.
+
 
