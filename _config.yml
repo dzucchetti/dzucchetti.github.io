@@ -16,6 +16,7 @@ show_excerpts: true
 
 header_pages:
   - indice.md
+  - blog.md
   - about.md
 
 langs:
