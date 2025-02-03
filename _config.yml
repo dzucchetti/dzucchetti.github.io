@@ -17,3 +17,9 @@ show_excerpts: true
 header_pages:
   - indice.md
   - about.md
+
+langs:
+  de: Deutsch
+  en: English
+  fr: Français
+  it: Italiano
