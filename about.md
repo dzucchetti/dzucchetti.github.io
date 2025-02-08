@@ -4,7 +4,8 @@ title: About
 permalink: /about
 ---
 
-### Breve Curriculum Vitae
+# Domenico Zucchetti
+## Curriculum Vitae
 
 - Domenico Zucchetti (1960) sono sposato con due figli e vivo a Massagno
   (Svizzera).
@@ -45,13 +46,13 @@ permalink: /about
   collaborativa, con particolare riguardo all’ambito contabile, commerciale e al
   contesto della cooperazione internazionale.
 
-### Contatti
+## Contatti
 
 Potete contattarmi al domenico.zucchetti[at]yahoo.com   
 Generalmente leggo gli email, ma non sempre riesco a rispondere o a rispondere subito.
 
 
-### Idee e prospettive
+## Idee e prospettive
 
 Mi occupo fina dalla giovane età di temi interculturali e interconfessionali e
 mi definisco "specialista in inter-in-dipendenza".
@@ -65,3 +66,14 @@ esigenze dell’ambiente con e quelle dell’economia. Ho un approccio liberale 
 tollerante. Sono per una politica dinamica, in grado di proporre soluzioni
 modellate alla realtà e mirate al mantenimento del territorio e dei valori
 culturali.
+
+# Privacy 
+
+Questo sito non usa cookies e non ha nessun sistema di tracking.
+
+# Copyright 
+
+Salvo menzione diversa, tutto quanto pubblicato in questo sito è soggetto a Copyright Domenico Zucchetti Massagno. Tutti i diritti sono riservati.
+
+
+
