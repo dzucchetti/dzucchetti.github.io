@@ -12,6 +12,10 @@ lang: it
 
 Gli Stati Uniti d’America (USA) chiedono agli stati europei di portare le spese militari al 5% del Prodotto Interno Lordo (PIL). I paesi della NATO prevedono di portarle al 2% e discuteranno di aumentarle al 3% del PIL.
 
+## Spese militari negli USA
+
+Nel 2024, negli USA, le spese per la difesa sono state di 842 miliardi di dollari (760 miliardi di franchi svizzeri), corrispondenti a circa il 2.7% del PIL. Per gli USA, questa percentuale è una delle più basse degli ultimi 70 anni. Durante la guerra del Vietnam (1968) aveva raggiunto l’8.6%, mentre durante la guerra fredda (1985) il massimo è stato del 5.7% e, durante la guerra in Iraq e Afghanistan (2010), del 4.5%.
+
 ## Aumento spese difesa per la Svizzera
 
 Il PIL della Svizzera è di circa 800 miliardi di franchi. Il totale del budget della Confederazione è di 85.7 miliardi, 10.7% del PIL. Le spese per la difesa per il 2025 sono previste in 6.2 miliardi, quindi lo 0.8% del PIL.
