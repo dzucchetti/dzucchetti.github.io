@@ -22,7 +22,7 @@ Il PIL della Svizzera è di circa 800 miliardi di franchi. Il totale del budget 
 
 L'aumento delle spese per la difesa potrebbe avvenire tramite il taglio di altre spese o l'aumento delle entrate. In questo scenario si è preso come esempio l’IVA, che con un'aliquota dell’8.1% genera entrate per 27.9 miliardi.
 
-Qui sono elencate alcune ipotesi, unicamente con l’obiettivo di fornire un ordine di grandezza.
+Qui sono elencate alcune ipotesi, unicamente con l’obiettivo di fornire degli ordini di grandezza.
 
 ### Opzione 3%
 
