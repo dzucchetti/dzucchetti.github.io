@@ -1,64 +1,40 @@
 ---
 layout: post
-title: "Censura alla RSI"
+title: "Svizzera ipotesi 5% del PIL per la difesa"
 excerpt:
-  "Il consigliere nazionale Marchesi ha attribuito il traffico all’aumento degli
-  stranieri in Svizzera, semplificando un problema complesso. L’articolo critica
-  la RSI per aver abbandonato il suo ruolo informativo a favore di una
-  narrazione più allineata alla destra, censurando voci critiche e limitando il
-  confronto aperto, un pilastro della tradizione politica svizzera. [...]"
-date: 2024-06-18 02-00-00 +0100
+  "Cosa significherebbe per la Confederazione Svizzera portare le spese militari al 3% o al 5% del PIL?. [...]"
+date: 2025-02-14 02-00-00 +0100
 categories: blog
 lang: it
 ---
 
-# Censura alla RSI
+# Svizzera ipotesi 5% del PIL per la difesa
 
-Si è appena conclusa la conferenza sulla pace in Ucraina al Bürgenstock, e le
-forze dell’ordine meritano un plauso per il lavoro svolto. Garantire la
-sicurezza a oltre cento delegazioni in un clima internazionale di forti tensioni
-e palesi minacce ha certamente richiesto molta preparazione e sforzi
-considerevoli. Dobbiamo essere riconoscenti, perché è anche grazie all’impegno e
-alla professionalità di queste persone che la Svizzera è apprezzata nel mondo e
-riesce a offrire i suoi buoni uffici in situazioni di crisi internazionali.
+Gli Stati Uniti d’America (USA) chiedono agli stati europei di portare le spese militari al 5% del Prodotto Interno Lordo (PIL). I paesi della NATO prevedono di portarle al 2% e discuteranno di aumentarle al 3% del PIL.
 
-L’unico problema di sicurezza sembra essere stato il blocco del parlamentare
-Thomas Aeschi, capogruppo UDC, da parte di un agente della Fedpol (polizia
-federale), incaricato di impedire a persone non autorizzate di passare sulla
-scala principale di Palazzo federale, che ospitava il presidente del parlamento
-dell’Ucraina, ripetutamente minacciato di morte. Si potrà discutere se le misure
-di sicurezza fossero eccessive, ma è evidente che quella del rappresentante
-dell’UDC è stata una provocazione; infatti, è parlamentare dal 2011 e non è
-credibile che non potesse servirsi dell’ascensore per recarsi dove doveva.
-Inoltre, il funzionario di polizia ha certamente spiegato bene la situazione e
-fatto capire che aveva ordini stringenti in merito alla sicurezza. Nonostante
-ciò, l’onorevole Aeschi, tenente nell’esercito, ha volutamente disatteso gli
-ordini ed è entrato nella zona chiusa, obbligando l’agente a fare il suo dovere.
+## Aumento spese difesa per la Svizzera
 
-I filmati hanno fatto il giro del mondo, mettendo in dubbio l’operato degli
-addetti alla sicurezza e dando il via a critiche alla Fedpol anche da parte del
-Consigliere federale Albert Rösti. In tempi normali, una provocazione del genere
-sarebbe stata condannata da tutti; invece, viviamo un periodo di estrema
-polarizzazione, in cui tutto appare lecito. Si dimentica così il valore
-simbolico e il dirompente messaggio diseducativo di certe azioni. Infatti, se un
-parlamentare di destra, ufficiale dell’esercito, in una posizione di potere, per
-motivi futili, ritiene lecito sfidare degli agenti di sicurezza proprio nel
-momento di massima attenzione e tensione, e in un contesto di massima allerta
-con la Svizzera al centro della scena mondiale, è chiaro che molte persone, con
-motivi di insoddisfazione molto più evidenti e frustrate dall’impossibilità di
-farsi sentire, riterranno perfettamente lecito provocare le forze dell’ordine e
-magari anche fare di peggio.
+Il PIL della Svizzera è di circa 800 miliardi di franchi. Il totale del budget della Confederazione è di 85.7 miliardi, 10.7% del PIL. Le spese per la difesa per il 2025 sono previste in 6.2 miliardi, quindi lo 0.8% del PIL.
 
-Invito quindi nel modo più assoluto a non seguire l’esempio di certi
-“rappresentanti del popolo” e a tenere sempre presente che gli alti magistrati
-che giustificano e difendono certi comportamenti infangano la loro carica e le
-nostre istituzioni. Ricordo poi che le forze dell’ordine meritano sempre il
-massimo rispetto e che è dovere di tutti sostenerle nello svolgimento delle loro
-mansioni. In caso di presunti o evidenti errori, ci sono modalità per segnalarli
-e non bisogna reagire. Sono infatti persone come tutti noi, che svolgono un
-compito molto delicato e difficile in difesa della sicurezza di tutti, delle
-nostre istituzioni e della democrazia. Di fronte alle ingiustizie del mondo, a
-difesa dei diritti e di certi accadimenti, non solo è lecito, ma è doveroso
-manifestare; tuttavia, lo si deve fare sempre e solo in modo pacifico e gli
-agenti non devono mai essere provocati, tanto più quando è in gioco la sicurezza
-delle persone e la tensione è al massimo.
+L'aumento delle spese per la difesa potrebbe avvenire tramite il taglio di altre spese o l'aumento delle entrate. In questo scenario si è preso come esempio l’IVA, che con un'aliquota dell’8.1% genera entrate per 27.9 miliardi.
+
+Qui sono elencate alcune ipotesi, unicamente con l’obiettivo di fornire un ordine di grandezza.
+
+### Opzione 3%
+
+Questa opzione significherebbe portare le spese dell’esercito a 24 miliardi, quindi aumentarle di 17.8 miliardi. A titolo indicativo, questo obiettivo potrebbe essere raggiunto approssimativamente con: 
+
+- Aumento dell’IVA del 5.2 %, quindi portarla al 13.3%.
+- Tagli: versamento all’AVS di 16.1 miliardi e ricerca applicata di 1.6 miliardi.
+- Tagli: Trasporti (ferrovie e strade) 10.8, Educazione e ricerca 8.4 miliardi.
+
+### Opzione 5%
+
+Questa opzione significherebbe portare le spese dell’esercito a 40 miliardi, quindi aumentarle di 33.8 miliardi. A titolo indicativo, questo obiettivo potrebbe essere raggiunto approssimativamente con:
+
+- Aumento dell’IVA del 9.8 %, quindi portarla al 17.9%.
+- Tagli: Previdenza sociale 30.3 miliardi (AVS, AI, Casse malattia, ecc.), Agricoltura 3.6 miliardi.
+- Tagli: AVS 16.1 miliardi, Trasporti (ferrovie e strade) 10.8 miliardi, Educazione e ricerca 8.4 miliardi.
+
+
+
