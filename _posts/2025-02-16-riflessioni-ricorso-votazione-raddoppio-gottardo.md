@@ -28,7 +28,7 @@ Non so quanto questo ricorso abbia contribuito a sensibilizzare il Tribunale fed
 
 ## La questione della lingua italiana e il Ticino
 
-L’11 novembre 2015, pochi mesi prima della votazione, l’Ufficio federale delle strade (USTRA) aveva pubblicato un rapporto, solo in tedesco, in cui si indicava che la soletta superiore della galleria del Gottardo poteva essere mantenuta stabile fino al 2035 con normali lavori di manutenzione, smascherando così il castello di bugie costruito attorno alla necessità del raddoppio.
+L’11 novembre 2015, pochi mesi prima della votazione, l’Ufficio federale delle strade (USTRA) aveva pubblicato un rapporto, solo in tedesco, in cui si indicava che la soletta superiore della galleria del Gottardo poteva essere mantenuta stabile fino al 2035 con normali lavori di manutenzione, smascherando così il castello di bugie costruito attorno alla presunta necessità del raddoppio per effettuare l’urgente risanamento del tunnel esistente.
 
 La votazione sul tunnel del Gottardo riguardava in primo luogo il Cantone Ticino, e sarebbe stato indispensabile che un documento così importante, che faceva chiarezza sulla reale situazione e smentiva la narrativa ufficiale, fosse disponibile anche in italiano. Il Tribunale federale ha invece mostrato un formalismo urtante nei confronti del popolo ticinese e della lingua italiana, poiché ha dato l’impressione di avallare la prassi secondo cui l’amministrazione federale potesse, persino in una votazione federale che interessava direttamente il Ticino, limitarsi a fornire informazioni tecniche di grande rilevanza esclusivamente in tedesco.
 
