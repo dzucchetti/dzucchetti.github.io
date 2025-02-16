@@ -14,7 +14,7 @@ lang: it
 
 In questi giorni sono iniziati i lavori di scavo per il secondo tunnel della galleria autostradale del San Gottardo e colgo l’occasione per tornare sul ricorso che avevo presentato al Tribunale federale riguardo alla votazione del 28 febbraio 2016, respinto con [decisione del 16 febbraio 2016](/files/2016-02-16-TribunaleFederale-decisione-votazione-gottardo.pdf).
 
-Nella stessa giornata, il popolo svizzero si è espresso sull’iniziativa *"Per il matrimonio e la famiglia - No agli svantaggi per le coppie sposate"*. L’iniziativa ha ottenuto la maggioranza dei cantoni, ma è stata respinta con il 50,8% dei voti popolari. Tuttavia, il 10 aprile 2019, il Tribunale federale ha annullato la votazione a causa di evidenti errori nel materiale di voto.
+Nella stessa giornata, il popolo svizzero si era espresso sull’iniziativa *"Per il matrimonio e la famiglia - No agli svantaggi per le coppie sposate"*. L’iniziativa aveva ottenuto la maggioranza dei cantoni, ma è stata respinta con il 50,8% dei voti popolari. Il 10 aprile 2019, tuttavia, il Tribunale federale aveva annullato la votazione a causa di evidenti errori nel materiale di voto.
 
 È stata una decisione storica, poiché il Tribunale federale non aveva mai annullato una votazione federale. In passato erano state presentate diverse richieste di annullamento, sostenendo che le autorità avessero fornito informazioni errate, ma il Tribunale federale, per una serie di motivi, aveva sempre mantenuto un criterio molto restrittivo. Questa situazione aveva di fatto creato una sorta di impunità per il Consiglio federale e l’amministrazione federale. 
 
