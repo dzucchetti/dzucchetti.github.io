@@ -13,7 +13,7 @@ lang: it
 
 * **[Elementi chiave nella crisi del Credit Suisse (PDF)](/files/dossiers/creditsuisse-crisi/elementi-chiave-crisi-creditsuisse.pdf)**
 
-Quando il 20 dicembre 2024 la Commissione parlamentare d’inchiesta (CPI) ha presentato il rapporto intitolato «La gestione delle autorità federali nel contesto della crisi del Credit Suisse» (Rapport CPI), ho subito avvertito l’esigenza di leggerlo per cercare di comprendere meglio cosa fosse realmente accaduto. Poiché la CPI si è concentrata principalmente sul ruolo delle autorità federali, nonostante la ricchezza del documento non vi ho trovato tutte le risposte che cercavo. Ho così deciso di approfondire il tema adottando una prospettiva più ampia.
+Quando il 20 dicembre 2024 la Commissione parlamentare d’inchiesta (CPI) ha presentato il rapporto intitolato «La gestione delle autorità federali nel contesto della crisi del Credit Suisse» (Rapporto CPI), ho subito avvertito l’esigenza di leggerlo per cercare di comprendere meglio cosa fosse realmente accaduto. Poiché la CPI si è concentrata principalmente sul ruolo delle autorità federali, nonostante la ricchezza del documento non vi ho trovato tutte le risposte che cercavo. Ho così deciso di approfondire il tema adottando una prospettiva più ampia.
 
 Il risultato di questo lavoro è un documento denso di riflessioni, che cerca di individuare e analizzare quelli che, a mio avviso, rappresentano gli elementi chiave della crisi del Credit Suisse. Questa crisi appare infatti come il risultato  di una più ampia serie di criticità e sfide, derivanti dai profondi cambiamenti che stanno attraversando la nostra società, la politica, l’economia, la tecnologia, nonché dagli sviluppi degli approcci etici e morali.
 
