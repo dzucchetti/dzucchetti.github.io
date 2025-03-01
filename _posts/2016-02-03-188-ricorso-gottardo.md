@@ -30,8 +30,8 @@ I fatti, gli argomenti e le richieste presentate nel ricorso servono comunque so
 
 Documenti:
 
-* [Il testo del ricorso inoltrato il 2 febbraio 2015](/files/ricorsoTF-votazione%5Fgottardo%5F02-02-2016.pdf).
-* [Il riassunto in merito al Rapporto sul mantenimento.](/files/analisirapporto%5Fmanutenzione%5F02-02-2016.pdf)
+* [Il testo del ricorso inoltrato il 2 febbraio 2015](/files/dossiers/gottardo-ricorso/ricorsoTF-votazione%5Fgottardo%5F02-02-2016.pdf).
+* [Il riassunto in merito al Rapporto sul mantenimento.](/files/dossiers/gottardo-ricorso/analisirapporto%5Fmanutenzione%5F02-02-2016.pdf)
 * [Documento che tratta della costituzionalità](http://railvalley.org/sites/railvalley.org/files/RaiValley-Conformit%C3%A0Costituzione-01-02-2016.pdf).
 * [Confronto risanamento Arlberg e Gottardo](http://railvalley.org/sites/railvalley.org/files/RailValley-Confronto-Gottardo-Arlberg-01-02-2016.pdf).
 

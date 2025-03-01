@@ -16,8 +16,8 @@ Nella presentazione al pubblico dell’USTRA non c’è stato nessun accenno [al
 
 L’articolo 10a capoverso 2 della LDA obbliga il Consiglio federale e amministrazione, in occasione delle votazioni, a dare alla popolazione informazioni obiettive, complete e trasparenti. La presentazione dell’USTRA a cui ho assistito, per motivi appunto che esulano dalla volontà del funzionario incaricato, contravveniva completamente a questi dettami. L’impressione è che il Consiglio federale, la Consigliera federale responsabile del Dipartimento e l’USTRA, per seguire una norma inflessibile e in violazione delle altre norme, stiano dando in modo sistematico ai cittadini e ai media svizzeri informazioni non più attuali, totalmente superate dagli eventi, che impediscono alle persone di formarsi un giudizio corretto della situazione. Tramite un ricorso tempestivo, ho quindi segnalato la questione all’autorità competente, il Consiglio di Stato del Cantone Ticino, e chiesto il suo intervento perché i Consiglieri federali e i funzionari dell’amministrazione, in questa situazione molto particolare, siano liberati dall’obbligo di attenersi a quando deciso dall’Assemblea federale, e possano fornire ai cittadini e media svizzeri un’informazione obiettiva, completa e trasparente. Ho anche fatto presente che a breve i cittadini riceveranno il materiale di voto e cominceranno a votare, motivo per cui non è più possibile fare arrivare alle persone in tempo utile un’informazione obiettiva. Ho perciò chiesto al Consiglio di Stato di sospendere la votazione.
 
-* [Testo del ricorso aggiornato al 25 gennaio 2016](/files/ricorso%20al%20CdS-votazione%5Fgottardo%5F25-01-2016.pdf).
-* [Domande e risposte sul ricorso per la sospensione della votazione](/blog/2016/01/27/185)
+* [Testo del ricorso aggiornato al 25 gennaio 2016](/files/dossiers/gottardo-ricorso/ricorso%20al%20CdS-votazione%5Fgottardo%5F25-01-2016.pdf).
+* [Domande e risposte sul ricorso per la sospensione della votazione](/blog/2016/01/27/domande-risposte)
 
 Ulteriori informazioni sul tema del raddoppio li trovate sul sito [www.railvalley.org](http://railvalley.org/)
 

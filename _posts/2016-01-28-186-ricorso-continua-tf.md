@@ -18,7 +18,7 @@ Il Consiglio di Stato ha indicato che “**Spetterà pertanto alle autorità fed
 
 In considerazione di questa decisione, il ricorso verrà presentato al Tribunale federale.
 
-* [Testo del ricorso aggiornato al 25 gennaio 2016](/files/ricorso%20al%20CdS-votazione%5Fgottardo%5F25-01-2016.pdf).  
-   * [Allegato 1 (Lettera dell’Ing. Gysin al direttore dell’USTRA tedesco)](/files/GysinletteraASTRA-23-01-2016.pdf).
-* [Decisione del Consiglio di Stato del 27 gennaio 2016](/files/DecisioneCdS-27-01-2016.pdf)
+* [Testo del ricorso aggiornato al 25 gennaio 2016](/files/dossiers/gottardo-ricorso/ricorso%20al%20CdS-votazione%5Fgottardo%5F25-01-2016.pdf).  
+   * [Allegato 1 (Lettera dell’Ing. Gysin al direttore dell’USTRA tedesco)](/files/dossiers/gottardo-ricorso/GysinletteraASTRA-23-01-2016.pdf).
+* [Decisione del Consiglio di Stato del 27 gennaio 2016](/files/dossiers/gottardo-ricorso/DecisioneCdS-27-01-2016.pdf)
 

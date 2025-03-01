@@ -20,6 +20,6 @@ Ho anche segnalato al Consiglio di Stato che l’articolo 10A capoverso 4 della 
 
 Vedi:
 
-* [Testo del ricorso aggiornato al 25 gennaio 2016](/files/ricorso%20al%20CdS-votazione%5Fgottardo%5F25-01-2016.pdf).
-* [Lettera dell’Ing. Gysin al direttore dell’USTRA (tedesco)](/files/GysinletteraASTRA-23-01-2016.pdf).
+* [Testo del ricorso aggiornato al 25 gennaio 2016](/files/dossiers/gottardo-ricorso/ricorso%20al%20CdS-votazione%5Fgottardo%5F25-01-2016.pdf).
+* [Lettera dell’Ing. Gysin al direttore dell’USTRA (tedesco)](/files/dossiers/gottardo-ricorso/GysinletteraASTRA-23-01-2016.pdf).
 
