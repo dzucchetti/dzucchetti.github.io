@@ -12,7 +12,7 @@ lang: it
 
 # Riflessioni sul ricorso al Tribunale federale del 2016 
 
-In questi giorni sono iniziati i lavori di scavo per il secondo tunnel della galleria autostradale del San Gottardo e colgo l’occasione per tornare sul ricorso che avevo presentato al Tribunale federale riguardo alla votazione del 28 febbraio 2016, respinto con [decisione del 16 febbraio 2016](/files/2016-02-16-TribunaleFederale-decisione-votazione-gottardo.pdf).
+In questi giorni sono iniziati i lavori di scavo per il secondo tunnel della galleria autostradale del San Gottardo e colgo l’occasione per tornare sul ricorso che avevo presentato al Tribunale federale riguardo alla votazione del 28 febbraio 2016, respinto con [decisione del 16 febbraio 2016](/files/dossiers/gottardo-ricorso/2016-02-16-TribunaleFederale-decisione-votazione-gottardo.pdf).
 
 Nella stessa giornata, il popolo svizzero si era espresso sull’iniziativa *"Per il matrimonio e la famiglia - No agli svantaggi per le coppie sposate"*. L’iniziativa aveva ottenuto la maggioranza dei cantoni, ma è stata respinta con il 50,8% dei voti popolari. Il 10 aprile 2019, tuttavia, il Tribunale federale aveva annullato la votazione a causa di evidenti errori nel materiale di voto.
 
@@ -32,5 +32,5 @@ L’11 novembre 2015, pochi mesi prima della votazione, l’Ufficio federale del
 
 La votazione sul tunnel del Gottardo riguardava in primo luogo il Cantone Ticino, e sarebbe stato indispensabile che un documento così importante, che faceva chiarezza sulla reale situazione e smentiva la narrativa ufficiale, fosse disponibile anche in italiano. Il Tribunale federale ha invece mostrato un formalismo urtante nei confronti del popolo ticinese e della lingua italiana, poiché ha dato l’impressione di avallare la prassi secondo cui l’amministrazione federale potesse, persino in una votazione federale che interessava direttamente il Ticino, limitarsi a fornire informazioni tecniche di grande rilevanza esclusivamente in tedesco.
 
-L’impressione era che questa sentenza rappresentasse uno dei punti più bassi mai raggiunti nella considerazione della lingua italiana nella giurisprudenza federale. Ho segnalato la questione al Tribunale federale tramite un’istanza di revisione inconsueta, che, prevedibilmente, è stata [prontamente respinta](/files/2016-03-18-TribunaleFederale-decisione-revisione.pdf). Con tale istanza, credo di essermi spinto oltre il consentito e mi scuso per la mancanza di rispetto nei confronti dell'impegno dei giudici del Tribunale federale.
+L’impressione era che questa sentenza rappresentasse uno dei punti più bassi mai raggiunti nella considerazione della lingua italiana nella giurisprudenza federale. Ho segnalato la questione al Tribunale federale tramite un’istanza di revisione inconsueta, che, prevedibilmente, è stata [prontamente respinta](/files/dossiers/gottardo-ricorso/2016-03-18-TribunaleFederale-decisione-revisione.pdf). Con tale istanza, credo di essermi spinto oltre il consentito e mi scuso per la mancanza di rispetto nei confronti dell'impegno dei giudici del Tribunale federale.
 
