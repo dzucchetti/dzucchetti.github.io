@@ -8,7 +8,8 @@ categories: blog
 
 # Votazione Gottardo: Ricorso al Tribunale federale
 
-**Aggiornamento: [Riflessioni sul ricorso al Tribunale federale del 2016](/blog/2025-02-16-riflessioni-ricorso-votazione-raddoppio-gottardo.md)**
+
+**Aggiornamento: [Riflessioni sul ricorso al Tribunale federale del 2016](/blog/2025/02/16/riflessioni-ricorso-votazione-raddoppio-gottardo)**
 
 Martedì 2 febbraio 2016 con un ricorso al Tribunale federale ho chiesto **l’annullamento della votazione del 28 febbraio sul raddoppio del Gottardo**.
 
