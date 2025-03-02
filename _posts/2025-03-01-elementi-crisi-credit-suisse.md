@@ -27,3 +27,10 @@ La crisi del Credit Suisse rappresenta una vicenda molto rilevante, complessa e 
 Domenico Zucchetti  
 Massagno, 1. marzo 2025
 
+### Traduzioni in altre lingue
+
+Per facilitare chi volesse utilizzare strumenti di traduzione automatica per uso personale, ecco il documento in formato Word: 
+
+* [Elementi chiave nella crisi del Credit Suisse (Formato Word)](/files/dossiers/creditsuisse-crisi/2025-03-01-elementi-chiave-crisi-creditsuisse.docx)
+
+Chi volesse contribuire a una traduzione più accurata è pregato di contattare l'autore.
