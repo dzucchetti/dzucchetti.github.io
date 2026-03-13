@@ -3,7 +3,7 @@ layout: post
 title: "La nuova centralità dei Paesi tropicali"
 excerpt:
   "Superare il concetto di Sud globale"
-date: 2026-03-13 02-00-00 +0100
+date: 2026-03-13 02-00-01 +0100
 categories: blog
 lang: it
 ---
